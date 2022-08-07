@@ -1,0 +1,1 @@
+sanic sanicapp:app -H 0.0.0.0 -w 2 
